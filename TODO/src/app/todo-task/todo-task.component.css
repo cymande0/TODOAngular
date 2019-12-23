@@ -1,0 +1,13 @@
+li {
+  background: lightgray;
+}
+
+.odd-li {
+  background: lavender;
+  margin: 5px;
+}
+
+.last-li{
+  background: yellow;
+  margin: 5px;
+}
